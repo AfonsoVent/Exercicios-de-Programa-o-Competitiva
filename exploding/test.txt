@@ -1,0 +1,7 @@
+3
+4
+..FFFF..FF.FF..FFF.F..FFFF..FF.FF..FFF.F
+6
+....FFF.FF....F....F....
+3
+....FFF.F.F....F....F.F...
